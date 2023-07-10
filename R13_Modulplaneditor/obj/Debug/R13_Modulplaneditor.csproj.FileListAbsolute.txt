@@ -1,0 +1,113 @@
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\ModulplanView.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\App.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\bin\Debug\Database\ModuleDB_log.ldf
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\ModulplanView.baml
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.GenerateResource.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.CoreCompileInputs.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe.config
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\bin\Debug\Modulplaneditor.pdb
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\Modulplaneditor_Content.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.lref
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\Modulplaneditor.g.resources
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\Modulplaneditor.Properties.Resources.resources
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\Modulplaneditor.exe
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\Modulplaneditor.pdb
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csprojAssemblyReference.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\bin\Debug\Database\ModuleDB.mdf
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\InhaltDetail.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor\R13_Modulplaneditor\obj\Debug\InhaltDetail.baml
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Database\ModuleDB.mdf
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Database\ModuleDB_log.ldf
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe.config
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Modulplaneditor.pdb
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csprojAssemblyReference.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\InhaltDetail.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\ModulplanView.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\App.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor_Content.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.lref
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\InhaltDetail.baml
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\ModulplanView.baml
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.g.resources
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.Properties.Resources.resources
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.GenerateResource.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.CoreCompileInputs.cache
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.exe
+D:\dozlhe\Documents\bib\PRG C#\Unterricht_PBAT3H19A\Vorlagen\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.pdb
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Database\ModuleDB.mdf
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Database\ModuleDB_log.ldf
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe.config
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\bin\Debug\Modulplaneditor.pdb
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.AssemblyReference.cache
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\InhaltDetail.g.cs
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\ModulplanView.g.cs
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\App.g.cs
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor_Content.g.cs
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.cache
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.lref
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\InhaltDetail.baml
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\ModulplanView.baml
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.g.resources
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.Properties.Resources.resources
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.GenerateResource.cache
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.CoreCompileInputs.cache
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.exe
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\Modulplaneditor.pdb
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\AddInhaltDialog.g.cs
+C:\Users\jangs\Downloads\R13_Modulplaneditor_Vorlage\R13_Modulplaneditor\obj\Debug\AddInhaltDialog.baml
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Database\ModuleDB.mdf
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Database\ModuleDB_log.ldf
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe.config
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Modulplaneditor.pdb
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.AssemblyReference.cache
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\AddInhaltDialog.g.cs
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\InhaltDetail.g.cs
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\ModulplanView.g.cs
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\App.g.cs
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor_Content.g.cs
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.cache
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.lref
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\AddInhaltDialog.baml
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\InhaltDetail.baml
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\ModulplanView.baml
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.g.resources
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.Properties.Resources.resources
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.GenerateResource.cache
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.CoreCompileInputs.cache
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.exe
+C:\Users\RLazo\Downloads\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.pdb
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Database\ModuleDB.mdf
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Database\ModuleDB_log.ldf
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe.config
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Modulplaneditor.exe
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\bin\Debug\Modulplaneditor.pdb
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.AssemblyReference.cache
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\AddInhaltDialog.g.cs
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\InhaltDetail.g.cs
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\ModulplanView.g.cs
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\App.g.cs
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor_Content.g.cs
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.cache
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor_MarkupCompile.lref
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\AddInhaltDialog.baml
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\InhaltDetail.baml
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\ModulplanView.baml
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.g.resources
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.Properties.Resources.resources
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.GenerateResource.cache
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.CoreCompileInputs.cache
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.exe
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\Modulplaneditor.pdb
+C:\Users\RLazo\Desktop\Portfolio\R13_Modulplaneditor_MVVM\R13_Modulplaneditor\obj\Debug\R13_Modulplaneditor.csproj.SuggestedBindingRedirects.cache
